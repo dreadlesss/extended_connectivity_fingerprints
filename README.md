@@ -1,4 +1,4 @@
-翻译自ChemAxon的介绍。英文版在[这里](https://docs.chemaxon.com/display/docs/Extended+Connectivity+Fingerprint+ECFP)。
+参考自ChemAxon的介绍。英文版在[这里](https://docs.chemaxon.com/display/docs/Extended+Connectivity+Fingerprint+ECFP)。
 
 细节部分与rdkit略有不同，但原理基本一致。
 
